@@ -1,4 +1,6 @@
-Style.CSS
-H1 {
-	color:blue;
+h1 {
+  color: red;
+  font-size: 42px;
+  font-weight: 600;
+  text-align: center;
 }
